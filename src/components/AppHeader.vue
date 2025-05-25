@@ -1,5 +1,5 @@
 <template>
   <header>
-    <h1>ヘッダー</h1>
+    <h1>LEVOON</h1>
   </header>
 </template>
