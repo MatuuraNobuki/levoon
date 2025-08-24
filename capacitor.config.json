@@ -1,5 +1,9 @@
 {
   "appId": "com.levoon.app",
   "appName": "levoon",
-  "webDir": "dist"
+  "webDir": "dist",
+  "server": {
+    "url": "http://192.168.0.13:5173/",
+    "cleartext": true
+  }
 }
